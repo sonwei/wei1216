@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1606998729 source:c:\users\user\desktop\robot\robot main.cpp
+	"robot.h"
+
+1606998729 c:\users\user\desktop\robot\robot.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<time.h>
+
+1606997505 source:c:\users\user\desktop\robot\robot.cpp
+	"robot.h"
+
+1606998730 source:e:\c++\robot\robot main.cpp
+	"robot.h"
+
+1606998730 e:\c++\robot\robot.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<time.h>
+
+1606997506 source:e:\c++\robot\robot.cpp
+	"robot.h"
+
